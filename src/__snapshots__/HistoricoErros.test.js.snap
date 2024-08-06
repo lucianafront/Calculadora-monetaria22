@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HistoricoErros matches snapshot 1`] = `
+<div>
+  <h1>
+    Histórico de Erros
+  </h1>
+  <ul>
+    <li>
+      De 
+      USD
+       para 
+      BRL
+       - Valor: 
+      100
+       - Erro: 
+      Invalid currency
+    </li>
+    <li>
+      De 
+      EUR
+       para 
+      JPY
+       - Valor: 
+      50
+       - Erro: 
+      Conversion rate not available
+    </li>
+  </ul>
+</div>
+`;
